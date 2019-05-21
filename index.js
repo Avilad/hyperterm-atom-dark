@@ -5,7 +5,7 @@ const cursorColor = foregroundColor
 const borderColor = backgroundColor
 
 const colors = {
-  black       : backgroundColor,
+  black       : '#000000', // black
   red         : '#e06c75', // red
   green       : '#98c379', // green
   yellow      : '#d19a66', // yellow
